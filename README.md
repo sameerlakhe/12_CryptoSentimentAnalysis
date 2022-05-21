@@ -50,13 +50,6 @@ Use NLTK and Python to tokenize text, find n-gram counts, and create word clouds
 3. Removed stop words.
 
 
-***Bitcoin Word Cloud***
-![Bitcoin Word Cloud](Images/Bitcoin_word_cloud.png)
-
-***Ethereum Sentiment score summary***
-![Ethereum Word Cloud](Images/Ethereum_word_cloud.png)
-
-
 
 
 #### N-grams
@@ -71,17 +64,16 @@ Checked the ngrams and word frequency for each coin.
 Generated word clouds for each coin to summarize the news for each coin.
 
 ***Bitcoin Word Cloud***
-![Bitcoin word cloud](Images/btc-word-cloud.png)
+![Bitcoin Word Cloud](Images/Bitcoin_word_cloud.png)
 
 ***Ethereum Word Cloud***
-![Ethereum word cloud](Images/eth-word-cloud.png)
+![Ethereum Word Cloud](Images/Ethereum_word_cloud.png)
 
 ***Bitcoin and Ethereum Top Words***
 ![Bitcoin and Ethereum Top words](Images/Bitcoin_Ethereum_Top_words.png)
 
 
 ### 3 - Named Entity Recognition
-
 Build a named entity recognition model for both coins and visualize the tags using SpaCy.
 
 ***Bitcoin NER***
