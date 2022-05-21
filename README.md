@@ -88,6 +88,6 @@ Build a named entity recognition model for both coins and visualize the tags usi
 ![Bitcoin NER](Images/BitcoinNER.png)
 
 ***Ethereum NER***
-![eth-ner.png](Images/EthereumNER.png)
+![Ethereum NER](Images/EthereumNER.png)
 
 
